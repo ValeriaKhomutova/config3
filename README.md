@@ -53,7 +53,7 @@ let имя = значение;
 
 ```python3 homework3.py config.txt output.json```
 ## Примеры использования
-![Screen]()
+![Screen](https://github.com/ValeriaKhomutova/config3/blob/main/image.png)
 <!--описание коммитов-->
 ## Описание коммитов
 | Название | Описание                                                                             |
