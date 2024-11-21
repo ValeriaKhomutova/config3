@@ -1,0 +1,8 @@
+{
+    "APRRRR_CONFIG": {
+        "appName": "SampleARRR",
+        "appVersion": 2.0
+    },
+    "MAX_RETRIES": 388,
+    "ARRAY_ARGS": [3,10,15,432]
+}

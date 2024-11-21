@@ -32,7 +32,7 @@ def main(input_file, output_file):
         data = json.load(f)
 
     # Преобразование в конфигурационный язык
-    config_data = '" Это конфигурационный файл\n\n' + convert_dict(data)
+    config_data =  convert_dict(data)
 
     # Запись результата в выходной файл
     with open(output_file, 'w') as f:

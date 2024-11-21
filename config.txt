@@ -1,7 +1,5 @@
-" Это конфигурационный файл
-
 dict(
-    APP_CONFIG = dict(
+    AP_CONFIG = dict(
     appName = 'SampleApp',
     appVersion = 1.0,
 ),
