@@ -55,6 +55,6 @@ let имя = значение;
 
 ```python homework3.py .\input.json .\config.txt```
 ## Примеры использования
-![Screen]()
-![Screen](https://github.com/ValeriaKhomutova/config3/blob/main/image.png)
+![Screen](https://github.com/ValeriaKhomutova/config3/blob/main/img1.png)
+![Screen](https://github.com/ValeriaKhomutova/config3/blob/main/img2.png)
 
